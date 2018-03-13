@@ -1,31 +1,11 @@
 {
-    "name": "sample_project",
-    "version": "0.0.1",
-    "botX_modules": {},
-    "external_modules": {
-        "kinova-ros": {
-            "url": "https://github.com/Kinovarobotics/kinova-ros/archive/master.zip",
-            "name": "kinova-ros"
-        },
-        "jaco_manipulation": {
-            "url": "https://github.com/superbotx/jaco_manipulation/archive/master.zip",
-            "name": "jaco_manipulation"
-        },
-        "ar_track_alvar": {
-            "url": "https://github.com/ros-perception/ar_track_alvar/archive/indigo-devel.zip",
-            "name": "ar_track_alvar"
-        },
-        "iai_kinect2": {
-            "url": "https://github.com/code-iai/iai_kinect2/archive/master.zip",
-            "name": "iai_kinect2"
-        },
-        "autolab_core": {
-            "url": "https://github.com/BerkeleyAutomation/autolab_core/archive/master.zip",
-            "name": "autolab_core"
-        },
-        "perception": {
-            "url": "https://github.com/BerkeleyAutomation/perception/archive/master.zip",
-            "name": "perception"
-        }
+  "name": "sample_project",
+  "version": "0.0.1",
+  "botX_modules": {},
+  "external_modules": {
+    "kinova-ros": {
+      "url": "https://github.com/Kinovarobotics/kinova-ros/archive/master.zip",
+      "name": "kinova-ros"
     }
+  }
 }
