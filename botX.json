@@ -1,15 +1,11 @@
 {
-    "name": "sample_project",
-    "version": "0.0.1",
-    "botX_modules": {},
-    "external_modules": {
-        "kinova-ros": {
-            "url": "https://github.com/Kinovarobotics/kinova-ros/archive/master.zip",
-            "name": "kinova-ros"
-        },
-        "moveit": {
-            "url": "https://github.com/ros-planning/moveit/archive/kinetic-devel.zip",
-            "name": "moveit"
-        }
+  "name": "sample_project",
+  "version": "0.0.1",
+  "botX_modules": {},
+  "external_modules": {
+    "kinova-ros": {
+      "url": "https://github.com/Kinovarobotics/kinova-ros/archive/master.zip",
+      "name": "kinova-ros"
     }
+  }
 }
